@@ -9,7 +9,7 @@
 🇬🇪 Currently living in Georgia   
 
 ### Languages and Tools:
-Python, Pandas, Numpy, Matplotlib, SciPy, Seaborn, Plotly, PostgreSQL, Power BI, Tableau
+Python, Pandas, Numpy, Matplotlib, SciPy, Seaborn, Plotly, PostgreSQL, Power BI, Tableau, DataLens
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/yana-shinkaryuk-4148a8252/"><img src="https://img.icons8.com/fluency/48/linkedin-circled.png" height="35"/></a> <a href="http://t.me/yana_shinkaryuk"><img src="https://img.icons8.com/fluency/48/telegram-app.png" height="35"/></a> <a href="https://www.facebook.com/profile.php?id=100087473226380&mibextid=9R9pXO"><img src="https://img.icons8.com/fluency/48/facebook-new.png" height="35"/></a>
