@@ -18,7 +18,7 @@ I'm currently working as a freelance Data Analyst. Throughout my experience, enc
 
 ### Career Objective:  
 🚀 I'm highly motivated to grow and develop within the field of data analysis and am open to collaboration   
-🇬🇪 Currently residing in Georgia, I am available for any online projects, remote jobs, and onsite opportunities in Georgia   
+🇬🇪 Currently living in Georgia, I am available for any online projects, remote jobs, and onsite opportunities in Georgia   
 🤝 Let's connect and collaborate on challenging and engaging projects!     
 
 ### Connect with me:
